@@ -29,15 +29,15 @@
 * **Tech:** PHP, MySQL, HTML/CSS, JavaScript
 * Full-stack web application designed for seamless exhibit booking, seat selection, and automated ticket generation with database integration.
 
-### 🎨 [Checkmate — AI Detector UX Case Study](https://github.com/anushka-portfolio/checkmate-ai-detector-ux)
+### 🎨 [Checkmate: AI Detector UX Case Study](https://github.com/anushka-portfolio/checkmate-ai-detector-ux)
 * **Tech:** Figma, User Research, UI Design
 * End-to-end product design case study solving trust and readability challenges in AI detection tools through transparent user flows.
 
-### 🎭 [London Musical Tickets — Accessible Desktop App](https://github.com/anushka-portfolio/java-musical-theatre-booking)
+### 🎭 [London Musical Tickets: Accessible Desktop App](https://github.com/anushka-portfolio/java-musical-theatre-booking)
 * **Tech:** Java, Swing UI, Object-Oriented Programming
 * Desktop application designed around accessibility guidelines to assist non-technical users in managing show schedules and seat bookings.
 
-### 🐦 [Birdie Buddy — Android Field Tracker](https://github.com/anushka-portfolio/birdie-buddy-android-app)
+### 🐦 [Birdie Buddy: Android Field Tracker](https://github.com/anushka-portfolio/birdie-buddy-android-app)
 * **Tech:** Native Java, Android SDK, Firebase, SQLite
 * Native mobile app featuring offline-first local SQLite storage paired with Firebase cloud synchronization for field observation logs.
 
