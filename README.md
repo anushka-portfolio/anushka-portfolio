@@ -33,7 +33,7 @@
 * **Tech:** Figma, User Research, UI Design
 * End-to-end product design case study solving trust and readability challenges in AI detection tools through transparent user flows.
 
-### 🎭 [London Musical Tickets: Accessible Desktop App](https://github.com/anushka-portfolio/java-musical-theatre-booking)
+### 🎭 [London Musical Tickets: Accessible Desktop App](https://github.com/anushka-portfolio/Musical-Ticket-Booking)
 * **Tech:** Java, Swing UI, Object-Oriented Programming
 * Desktop application designed around accessibility guidelines to assist non-technical users in managing show schedules and seat bookings.
 
